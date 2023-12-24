@@ -10,3 +10,9 @@ I'm incredibly proud of the effort and creativity invested in this project. The 
 Please take a moment to explore the Weather App and share your feedback. Your input is invaluable and will help me further refine and enhance the app.
 If you have any questions, suggestions, or would like to collaborate on similar projects, please don't hesitate to reach out. I am always open to new opportunities and ideas.
 Thank you for your continued support! 🙏 Let's stay weather-ready together! ☔️☀️❄️
+
+## Links &#11088;
+<ul>
+ <li>Live Site URL:  <a href="https://weather-api-rahul.netlify.app">Click Here </a></li><br> 
+  <li>Preview site soution : <a href="https://weather-api-rahul.netlify.app"</a>Click Here</li>
+</ul><br>
